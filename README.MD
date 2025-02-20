@@ -1,6 +1,6 @@
 # GoGraphApi 📩🚀  
 
-**GoGraphApi** is an open-source project that enables you to **automatically store your Microsoft 365 email subscriptions** in a **MongoDB** database using the **Go Fiber framework**.  
+**GoGraphApi** enables you to **automatically store your Microsoft 365 email subscriptions** in a **MongoDB** database using the **Go Fiber framework**.  
 
 ## 📌 Why Use GoGraphApi?  
 Have you ever wanted to **store your email subscriptions** in a database for **easy lookup, analysis, or archival**? If your company subscribes to **Microsoft Office 365**, this project can **automate** the process for you!  
