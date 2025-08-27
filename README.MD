@@ -1,4 +1,4 @@
-# Diana – Automated Microsoft 365 Email Archival
+## Diana – Automated Microsoft 365 Email Archival
 Diana is a backend service that automates the archival of Microsoft 365 email subscriptions, specifically for media monitoring, into a database. It uses the Microsoft Graph API to fetch and store data in near real-time, enabling reliable email storage and retrieval.
 
 ## 📌 Why Use Diana?  
