@@ -1,11 +1,10 @@
-# GoGraphApi 📩🚀  
+# Diana – Automated Microsoft 365 Email Archival
+Diana is a backend service that automates the archival of Microsoft 365 email subscriptions, specifically for media monitoring, into a database. It uses the Microsoft Graph API to fetch and store data in near real-time, enabling reliable email storage and retrieval.
 
-**GoGraphApi** enables you to **automatically store your Microsoft 365 email subscriptions** in a **MongoDB** database using the **Go Fiber framework** by utilizing **Microsoft Graph API**.  
-
-## 📌 Why Use GoGraphApi?  
+## 📌 Why Use Diana?  
 Have you ever wanted to **store your email subscriptions** in a database for **easy lookup, analysis, or archival**? If your company subscribes to **Microsoft Office 365**, this project can **automate** the process for you!  
 
-GoGraphApi helps you:  
+Diana helps you:  
 ✅ **Fetch emails** from a specific sender via **Microsoft Graph API**  
 ✅ **Store emails in MongoDB** for long-term reference  
 ✅ **Easily query and retrieve stored emails**  
